@@ -1,0 +1,14 @@
+.encabezado{
+    font-family:'Pacifico', cursive;
+    text-align: center;
+    color:red;
+    background-color: aliceblue;
+}
+table{
+    display: flex;
+    justify-content: center;
+
+}
+body{
+    background-image: url(/images/89959506-fondo-de-textura-de-tela-abstracta-pastel-fondo-de-pantalla-o-lienzo-artístico-de-lona-wale-.webp);
+}
